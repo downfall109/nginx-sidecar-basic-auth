@@ -5,7 +5,7 @@ MAINTAINER "Yannick Scherer <yannick.scherer@gmail.com>"
 # METADATA
 # --------------------
 EXPOSE 8087
-ENV NGINX_VERSION=1.12.2 \
+ENV NGINX_VERSION=1.16.1 \
   DOCKERIZE_VERSION=v0.6.1 \
   PORT=8087 \
   FORWARD_HOST=localhost \
